@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DjenkaBog
+- 👋 Hi, I’m @Djenka
 - 👀 I’m interested in WEB Development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me vukasindjekic91@gmail.com
